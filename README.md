@@ -17,6 +17,7 @@ Each todo will contain
 * Description (maybe)
 * Date Added
 * Date Due (maybe)
+* complete
 
 
 ## Client
