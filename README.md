@@ -8,7 +8,8 @@ Is the Python REST API the frontend will use to interact with the backend/DB
 ### REST Endpoints
 * GetAllTodos
 * AddTodo
-* DeleteTdo
+* DeleteTodo
+* UpdateTodo
 
 ### Todo Spec
 Each todo will contain
