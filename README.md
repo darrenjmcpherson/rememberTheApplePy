@@ -4,6 +4,9 @@ A ToDo App built with Python
 ## API
 Is the Python REST API the frontend will use to interact with the backend/DB
 
+start development env
+`python API/run.py`
+
 ### Spec
 * Python 3.8
 * SQLite
@@ -31,6 +34,10 @@ Each todo will contain
 
 ## Client
 Is the frontend app that will connect to the REST API.
+
+start development env
+`cd client`
+`npm start`
 
 ### Spec
 * NPM
