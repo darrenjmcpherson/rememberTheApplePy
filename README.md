@@ -24,12 +24,12 @@ start development env
 
 ### Todo Item Fields
 Each todo will contain
-* ID
-* Title
-* Description (maybe)
-* Date Added
-* Date Due (maybe)
-* complete
+* ID - integar
+* Title - string
+* Description (maybe) - string
+* Date Added - date
+* Date Due (maybe) - date
+* complete - boolean
 
 
 ## Client
